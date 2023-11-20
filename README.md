@@ -1,8 +1,8 @@
-### COP3503 - Number Statistics Project 
+### PSY2012 - Autism Spectrum Disorder Webpage
 
-This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
+This webpage was created for PSY2012 - Introduction to Psychology. It explains Autism Spectrum Disorder and three concepts of the disorder from three different chosen approaches.
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
+![Zain Malik (7)](https://github.com/zain0329/Autism-Spectrum-Disorder/assets/66034863/5558f4f1-a9a0-481f-bbd7-d41e968519b5)
 
 
 
